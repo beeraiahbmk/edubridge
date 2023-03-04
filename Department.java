@@ -1,9 +1,11 @@
-package assignment3;
+package deptpack;
 
 public class Department {
-	String departmentName;
-	String departmentHead;
-	int numofStudent;
-	
+	public void display3() 
+	{ 
+		System.out.println("this is department class"); 
+		System.out.println("this is department id :"+121); 
+		System.out.println("this is department name :"+("HR")); 
+	}
 
 }
